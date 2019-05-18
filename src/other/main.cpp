@@ -1,5 +1,5 @@
 /*
-The SD boot (in this case) works only if the you pushes a button right after the code starts and hold it for a ccertian delay, in this case 10 seconds.
+The SD boot (in this case) works only if you push a button right after the code starts and hold it for a certian delay, in this case 10 seconds.
 Happy Coding,
 Guy Yanai.
 If there is any problems with the code don't hesitate opening an error on github.
