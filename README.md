@@ -2,6 +2,6 @@
 
 Hello everyone, <br />
 Iv'e made this library for anyone who wants to select from which .bin file (arduino sketch) the esp will boot. <br />
-Happy Coding. <br />
+Good luck and Happy Coding. <br />
 
 ### Developer: Guy Yanai
