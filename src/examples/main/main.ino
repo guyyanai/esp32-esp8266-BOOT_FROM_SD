@@ -1,5 +1,5 @@
 /*
-The SD boot (in this case) works only if the you pushes a button right after the code starts and hold it for a ccertian delay, in this case 10 seconds.
+The SD boot (in this case) works automatically in the setup void (therefore right after the code starts).
 Happy Coding,
 Guy Yanai.
 If there is any problems with the code don't hesitate opening an error on github.
